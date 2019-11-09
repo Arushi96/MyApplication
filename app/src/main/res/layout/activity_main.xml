@@ -54,7 +54,9 @@
         android:text="What is"
         android:textAlignment="center"
         android:textSize="20sp"
-        android:layout_below="@+id/m_button" />
+        android:layout_below="@+id/m_button"
+        android:layout_centerHorizontal="true"
+        />
 
     <TextView
         android:id="@+id/question_textView3"
@@ -63,7 +65,8 @@
         android:text="of"
         android:textAlignment="center"
         android:textSize="20sp"
-        android:layout_below="@+id/question_textView" />
+        android:layout_below="@+id/question_textView"
+        android:layout_centerHorizontal="true"/>
 
     <EditText
         android:id="@+id/editText"
