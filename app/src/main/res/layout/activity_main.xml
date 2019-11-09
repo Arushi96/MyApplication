@@ -76,7 +76,8 @@
         android:hint="Enter Percentage"
         android:inputType="numberDecimal"
         android:textAlignment="center"
-        android:layout_below="@+id/question_textView3" />
+        android:layout_below="@+id/question_textView3"
+        android:layout_centerHorizontal="true"/>
 
 
 </RelativeLayout>
